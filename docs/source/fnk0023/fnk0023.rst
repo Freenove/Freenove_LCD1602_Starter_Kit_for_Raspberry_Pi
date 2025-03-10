@@ -5,7 +5,7 @@ Freenove LCD1602 Starter Kit for Raspberry Pi
 Select the language you want to use.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :titlesonly:
     
    c-lang-tutorial.rst
