@@ -53,4 +53,9 @@ Java language tutorial
    codes/java-lang/Photoresistor&LED.rst
    codes/java-lang/Thermistor.rst
    codes/java-lang/LCD1602.rst
+
+.. toctree::
+   :titlesonly:
+   :caption: What's Next?
+
    codes/java-lang/WhatsNext.rst
